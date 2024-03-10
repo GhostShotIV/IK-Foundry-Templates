@@ -48,6 +48,30 @@
       },
       "system": "custom-system-builder",
       "flags": {}
+    },
+    {
+      "name": "ik-careers",
+      "label": "IK-Careers",
+      "path": "packs/ik-careers",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "ik-archetypes",
+      "label": "IK-Archetypes",
+      "path": "packs/ik-archetypes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
     }
   ]
 }
