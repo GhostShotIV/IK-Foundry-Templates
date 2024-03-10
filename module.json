@@ -1,0 +1,53 @@
+{
+  "id": "iron-kingkoms-templates",
+  "title": "Iron Kingkoms Templates",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "custom-system-builder",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "GhostShotIV",
+      "discord": "ghostshotiv",
+      "email": "ghostshotiv@gmail.com",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/GhostShotIV/IK-Foundry-Templates",
+  "packs": [
+    {
+      "name": "ik-actor-templates",
+      "label": "IK-Actor Templates",
+      "path": "packs/ik-actor-templates",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    },
+    {
+      "name": "ik-items",
+      "label": "IK-Items",
+      "path": "packs/ik-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
+    }
+  ]
+}
