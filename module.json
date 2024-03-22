@@ -24,6 +24,8 @@
     }
   ],
   "url": "https://github.com/GhostShotIV/IK-Foundry-Templates",
+  "manifest": "https://raw.githubusercontent.com/GhostShotIV/IK-Foundry-Templates/main/module.json",
+  "download": "https://github.com/GhostShotIV/IK-Foundry-Templates/raw/main/iron-kingkoms-templates.zip",
   "packs": [
     {
       "name": "ik-actor-templates",
