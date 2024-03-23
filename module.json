@@ -74,6 +74,18 @@
       },
       "system": "custom-system-builder",
       "flags": {}
+    },
+    {
+      "name": "ik-rolltables",
+      "label": "IK-Rolltables",
+      "path": "packs/ik-rolltables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "custom-system-builder",
+      "flags": {}
     }
   ]
 }
