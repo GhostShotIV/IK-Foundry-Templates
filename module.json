@@ -2,7 +2,7 @@
   "id": "iron-kingkoms-templates",
   "title": "Iron Kingdoms Templates",
   "description": "This module contains compendia with templates for Foundrys Custom System Builder, with which the Iron Kingdoms system can be played.<br />After importing Actors, Items and the Macro, run the macro, to update the templates and fixing id assignments in the templates.",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "compatibility": {
     "minimum": "11",
     "verified": "11"

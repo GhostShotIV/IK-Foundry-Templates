@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.1.15
+
+- Changed Attack macros for Jacks, to also use the better macro, that also shows if the attack hits and what it hits
+
 ## 0.1.14
 
 - Added a changelog
