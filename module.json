@@ -1,7 +1,7 @@
 {
   "id": "iron-kingkoms-templates",
   "title": "Iron Kingkoms Templates",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -21,6 +21,9 @@
       "discord": "ghostshotiv",
       "email": "ghostshotiv@gmail.com",
       "flags": {}
+    },
+    {
+      "name": "sirjames101"
     }
   ],
   "url": "https://github.com/GhostShotIV/IK-Foundry-Templates",
