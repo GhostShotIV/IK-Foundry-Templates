@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.1.16
+
+- "General Skills" Attribute selection had "SPD" as key behind "STR", which caused all general skills using STR to instead use SPD
+
 ## 0.1.15
 
 - Changed Attack macros for Jacks, to also use the better macro, that also shows if the attack hits and what it hits

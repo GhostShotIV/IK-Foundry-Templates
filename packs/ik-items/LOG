@@ -1,8 +1,23 @@
-2024/05/09-22:30:47.471 68b0 Recovering log #197
-2024/05/09-22:30:47.477 68b0 Delete type=0 #197
-2024/05/09-22:30:47.477 68b0 Delete type=3 #195
-2024/05/10-00:58:28.137 62d4 Level-0 table #202: started
-2024/05/10-00:58:28.137 62d4 Level-0 table #202: 0 bytes OK
-2024/05/10-00:58:28.139 62d4 Delete type=0 #200
-2024/05/10-00:58:28.144 62d4 Manual compaction at level-0 from '!folders!8LFetv6rKEkfHFNg' @ 72057594037927935 : 1 .. '!items!zzRmoVf3azVJNAvY' @ 0 : 0; will stop at (end)
-2024/05/10-00:58:28.144 62d4 Manual compaction at level-1 from '!folders!8LFetv6rKEkfHFNg' @ 72057594037927935 : 1 .. '!items!zzRmoVf3azVJNAvY' @ 0 : 0; will stop at (end)
+2024/05/11-12:32:48.355 2e38 Recovering log #204
+2024/05/11-12:32:48.361 2e38 Level-0 table #206: started
+2024/05/11-12:32:48.379 2e38 Level-0 table #206: 262411 bytes OK
+2024/05/11-12:32:48.384 2e38 Delete type=0 #204
+2024/05/11-12:32:48.385 2e38 Delete type=3 #203
+2024/05/11-12:46:42.309 5adc Level-0 table #209: started
+2024/05/11-12:46:42.309 5adc Level-0 table #209: 0 bytes OK
+2024/05/11-12:46:42.311 5adc Delete type=0 #207
+2024/05/11-12:46:42.329 5adc Manual compaction at level-0 from '!folders!8LFetv6rKEkfHFNg' @ 72057594037927935 : 1 .. '!items!zzRmoVf3azVJNAvY' @ 0 : 0; will stop at '!items!zzRmoVf3azVJNAvY' @ 4072 : 1
+2024/05/11-12:46:42.329 5adc Compacting 1@0 + 0@1 files
+2024/05/11-12:46:42.349 5adc Generated table #210@0: 263 keys, 256972 bytes
+2024/05/11-12:46:42.349 5adc Compacted 1@0 + 0@1 files => 256972 bytes
+2024/05/11-12:46:42.351 5adc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/11-12:46:42.351 5adc Delete type=2 #206
+2024/05/11-12:46:42.353 5adc Manual compaction at level-0 from '!items!zzRmoVf3azVJNAvY' @ 4072 : 1 .. '!items!zzRmoVf3azVJNAvY' @ 0 : 0; will stop at (end)
+2024/05/11-12:46:42.361 5adc Manual compaction at level-1 from '!folders!8LFetv6rKEkfHFNg' @ 72057594037927935 : 1 .. '!items!zzRmoVf3azVJNAvY' @ 0 : 0; will stop at '!items!zzRmoVf3azVJNAvY' @ 4072 : 1
+2024/05/11-12:46:42.361 5adc Compacting 1@1 + 1@2 files
+2024/05/11-12:46:42.391 5adc Generated table #211@1: 615 keys, 747469 bytes
+2024/05/11-12:46:42.391 5adc Compacted 1@1 + 1@2 files => 747469 bytes
+2024/05/11-12:46:42.392 5adc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/11-12:46:42.392 5adc Delete type=2 #92
+2024/05/11-12:46:42.393 5adc Delete type=2 #210
+2024/05/11-12:46:42.397 5adc Manual compaction at level-1 from '!items!zzRmoVf3azVJNAvY' @ 4072 : 1 .. '!items!zzRmoVf3azVJNAvY' @ 0 : 0; will stop at (end)
