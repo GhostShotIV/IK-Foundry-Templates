@@ -32,6 +32,7 @@
   "download": "https://github.com/GhostShotIV/IK-Foundry-Templates/raw/main/iron-kingkoms-templates.zip",
   "bugs": "https://github.com/GhostShotIV/IK-Foundry-Templates/issues",
   "changelog": "https://github.com/GhostShotIV/IK-Foundry-Templates/blob/main/CHANGELOG.md",
+  "esmodules": ["module/ironkingdoms.mjs"],
   "packs": [
     {
       "name": "ik-actor-templates",
